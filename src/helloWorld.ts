@@ -1,3 +1,4 @@
 const helloWorld: string = 'Hello World';
+const byeEarth: string = 'Tschüss Erde!';
 
-console.log(helloWorld);
+console.log(helloWorld, byeEarth);
